@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-194010-nxau",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-07-03T18:40:10.000Z",
+      "dateEnd": "2026-07-03T19:36:08.000Z",
+      "dateLabel": "03/07/2026, 19:40:10 - 03/07/2026, 20:36:08",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260703-194010-nxau",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260701-185542-3r2h",
       "title": "Grabnebelfûrstin, Serial Pinkshot",
       "commanders": [
