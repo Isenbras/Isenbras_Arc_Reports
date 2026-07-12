@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-124837-v2el",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-07-12T11:48:37.000Z",
+      "dateEnd": "2026-07-12T13:20:48.000Z",
+      "dateLabel": "12/07/2026, 12:48:37 - 12/07/2026, 14:20:48",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260712-124837-v2el",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260708-195333-9fls",
       "title": "Sarah Carigan",
       "commanders": [
