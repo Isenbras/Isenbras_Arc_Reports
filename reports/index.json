@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260727-204348-nut2",
+      "title": "Grabnebelfûrstin",
+      "commanders": [
+        "Grabnebelfûrstin"
+      ],
+      "dateStart": "2026-07-27T19:43:48.000Z",
+      "dateEnd": "2026-07-27T20:24:33.000Z",
+      "dateLabel": "27/07/2026, 20:43:48 - 27/07/2026, 21:24:33",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260727-204348-nut2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 36,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260725-112652-j87t",
       "title": "Just Mad N Fluffy",
       "commanders": [
