@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-200638-ankt",
+      "title": "Grabnebelfûrstin",
+      "commanders": [
+        "Grabnebelfûrstin"
+      ],
+      "dateStart": "2026-08-24T19:06:38.000Z",
+      "dateEnd": "2026-08-24T20:13:51.000Z",
+      "dateLabel": "24/08/2026, 20:06:38 - 24/08/2026, 21:13:51",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260824-200638-ankt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260805-191518-kzto",
       "title": "Sarah Carigan",
       "commanders": [
