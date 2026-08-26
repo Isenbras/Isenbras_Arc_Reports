@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-194228-lv3g",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-08-26T18:42:28.000Z",
+      "dateEnd": "2026-08-26T19:43:33.000Z",
+      "dateLabel": "26/08/2026, 19:42:28 - 26/08/2026, 20:43:33",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260826-194228-lv3g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 28,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260824-200638-ankt",
       "title": "Grabnebelfûrstin",
       "commanders": [
