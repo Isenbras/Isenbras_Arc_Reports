@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-170647-3zko",
+      "title": "Human Tamed A Cat",
+      "commanders": [
+        "Human Tamed A Cat"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-05T16:06:47.000Z",
+      "dateEnd": "2026-09-05T17:10:11.340Z",
+      "dateLabel": "05/09/2026, 17:06:47 - 05/09/2026, 18:10:11",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260905-170647-3zko",
+      "summary": {
+        "borderlandsPct": 0.47619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260828-202259-4xkv",
       "title": "Just Mad N Fluffy",
       "commanders": [
