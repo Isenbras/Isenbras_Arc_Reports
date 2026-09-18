@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-191343-38vy",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-09-18T18:13:43.000Z",
+      "dateEnd": "2026-09-18T19:13:29.580Z",
+      "dateLabel": "18/09/2026, 19:13:43 - 18/09/2026, 20:13:29",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260918-191343-38vy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260905-170647-3zko",
       "title": "Human Tamed A Cat",
       "commanders": [
