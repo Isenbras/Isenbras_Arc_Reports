@@ -2,7 +2,36 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260925-190904-lg1c",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-25T18:09:04.000Z",
+      "dateEnd": "2026-09-25T19:26:04.495Z",
+      "dateLabel": "25/09/2026, 19:09:04 - 25/09/2026, 20:26:04",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260925-190904-lg1c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20260921-205926-7zkf",
       "title": "Präk",
