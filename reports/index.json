@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-224133-t94g",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "4F3802A2-A87B-E411-863C-E4115BDF481D",
+        "name": "Nearly Göd",
+        "tag": "Ng"
+      },
+      "dateStart": "2026-09-25T21:41:33.000Z",
+      "dateEnd": "2026-09-25T22:29:18.268Z",
+      "dateLabel": "25/09/2026, 22:41:33 - 25/09/2026, 23:29:18",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20260925-224133-t94g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260925-190904-lg1c",
       "title": "Just Mad N Fluffy",
       "commanders": [
