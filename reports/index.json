@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261008-195109-5x75",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-08T18:51:09.000Z",
+      "dateEnd": "2026-10-08T20:00:48.068Z",
+      "dateLabel": "08/10/2026, 19:51:09 - 08/10/2026, 21:00:48",
+      "url": "https://Isenbras.github.io/Isenbras_Arc_Reports/?report=20261008-195109-5x75",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260930-194828-ztsh",
       "title": "Sarah Carigan",
       "commanders": [
